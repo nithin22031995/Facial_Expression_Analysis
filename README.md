@@ -1,8 +1,9 @@
 # Instructions 
 
-To run the code, navigate to Facial_Sentiment_Analysis folder and type below command in the console:  
+To run the code, navigate to Facial_Expression_Analysis folder and type below command in the console:  
 
-python Sentiment_Analysis.py --image_path
+#termianl cmd
+python Expression_Analysis.py --image_path
 
 Output will be stored to samples folder  
 
