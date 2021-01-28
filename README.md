@@ -9,7 +9,9 @@ Output will be stored to samples folder
 # Completed Tasks  
 
 FER2013 DATASET used
+
 Bounding-Box Generation  
+
 Facial Expression Classification  
 
 
