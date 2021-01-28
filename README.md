@@ -2,7 +2,7 @@
 
 To run the code, navigate to Facial_Expression_Analysis folder and type below command in the console:  
 
-#termianl cmd
+# Terminal cmd
 python Expression_Analysis.py --image_path
 
 Output will be stored to samples folder  
